@@ -3,7 +3,7 @@
 
 ##Overview
 
-This is the code for [this]() video on Youtube. We're going to use dimnensionality reduction to visualize our data. Specificially we'll build [Principal Component Analysis](https://plot.ly/ipython-notebooks/principal-component-analysis/) from scratch. Then, we'll compare it to 2 other techniqus (T-SNE, and LDA). Together, these are the 3 most popular DR techniques in machine learning right now.
+This is the code for [this](https://youtu.be/K796Ae4gLlY) video on Youtube. We're going to use dimnensionality reduction to visualize our data. Specificially we'll build [Principal Component Analysis](https://plot.ly/ipython-notebooks/principal-component-analysis/) from scratch. Then, we'll compare it to 2 other techniqus (T-SNE, and LDA). Together, these are the 3 most popular DR techniques in machine learning right now.
 
 ##Dependencies
 
